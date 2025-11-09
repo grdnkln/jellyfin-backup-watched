@@ -1,3 +1,5 @@
 jellyfin.json
+jellyfin*.db
+jellyfin*.db-*
 .env
 venv
